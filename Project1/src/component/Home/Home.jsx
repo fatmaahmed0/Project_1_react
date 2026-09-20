@@ -1,4 +1,3 @@
-import React from 'react'
 import avatar from "../../assets/images/avataaars.svg";
 export default function Home() {
   return (

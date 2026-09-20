@@ -1,4 +1,3 @@
-import React from "react";
 import photo1 from "../../assets/images/poert1.png";
 import photo2 from "../../assets/images/port2.png";
 import photo3 from "../../assets/images/port3.png";
@@ -36,8 +35,6 @@ export default function Portfolio() {
           </div>
         ))}
       </div>
-
-      {/* <!-- Main modal --> */}
       {
         selectPhoto && (
         <div
